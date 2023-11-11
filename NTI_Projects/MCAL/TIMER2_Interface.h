@@ -1,0 +1,10 @@
+
+
+#ifndef TIMER2_INTERFACE_H_
+#define TIMER2_INTERFACE_H_
+
+
+
+
+
+#endif /* TIMER2_INTERFACE_H_ */
